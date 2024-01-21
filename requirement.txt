@@ -6,3 +6,4 @@ scipy
 opencv-python
 wordcloud
 scikit-learn
+numpy==1.24
