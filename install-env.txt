@@ -1,0 +1,8 @@
+
+conda create --name=tevad python=3.9
+
+conda activate tevad
+
+pip3 install -r requirement.txt
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
